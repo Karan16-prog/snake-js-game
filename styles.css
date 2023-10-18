@@ -1,0 +1,15 @@
+body{
+    text-align: center;
+  
+}
+
+.toolbar{
+    display: flex;
+    justify-content: space-around;
+    /* width: 500px;
+    align-self: center;
+    justify-self: center; */
+    /* background-color: red; */
+    /* justify-items: center;
+    align-items: center; */
+}
